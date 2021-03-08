@@ -11,4 +11,4 @@ export GPU_MAX_SINGLE_ALLOC_PERCENT=100
 export GPU_ENABLE_LARGE_ALLOCATION=100
 export GPU_MAX_WORKGROUP_SIZE=1024
 
-./SRBMiner-MULTI --disable-cpu --algorithm autolykos2 --pool ergo.herominers.com:10251 --wallet 9ftQ1mWviwa6NgXcUtMYyYkGz635UKstSY7BZZEbDqSq4aAB6Ju --gpu-boost 3
+./SRBMiner-MULTI --disable-cpu --algorithm autolykos2 --pool ergo-eu1.nanopool.org:11433 --wallet 9hZg5mnY8XZHe5Jop8o4EJcoqNFLyEntmMC2NdJUY3J8YdZVLVQ --gpu-boost 3
